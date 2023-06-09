@@ -1,0 +1,805 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "image": "./images/services/service1.png",
+            "title": "Wordpress Website Development",
+            "description": "We help you to design your business website in a responsive and professional way."
+        },
+        {
+            "id": 2,
+            "image": "./images/services/service2.png",
+            "title": "ECommerce Website Development",
+            "description": "Team SleekSolutions can provide you a complete eCommerce solutions."
+        },
+        {
+            "id": 3,
+            "image": "./images/services/service3.png",
+            "title": "Web Application and Custom Website",
+            "description": "Team SleekSolutions can provide you a complete eCommerce solutions."
+        },
+        {
+            "id": 4,
+            "image": "./images/services/service4.png",
+            "title": "WordPress Website Speed Optimization",
+            "description": "We can help you to speed up your wordpress website and optimize it as lightfast!"
+        },
+        {
+            "id": 5,
+            "image": "./images/services/service5.png",
+            "title": "Graphics Design",
+            "description": "Our highly professional designers offer a creative and best quality graphics design service for your business"
+        },
+        {
+            "id": 6,
+            "image": "./images/services/service6.png",
+            "title": "Shopify. SquareSpace, Wix Websites",
+            "description": "We have execillency in the others CMS like Shopify, Square Space, Wix, Click Funnel, etc."
+        }
+    ],
+    "help": [
+        {
+            "id": 1,
+            "image": "./images/services/help1.png",
+            "title": "Skilled Developers",
+            "description": "We have a highly skilled team of web developers and designers who understand clients requirements and convert their vision into design and development"
+        },
+        {
+            "id": 2,
+            "image": "./images/services/help2.png",
+            "title": "Great UI-UX",
+            "description": "Our talented Developers have excellent knowledge of website UI & UX. A well-designed responsive user friendly website can increase your Internet traffic and conversions."
+        },
+        {
+            "id": 3,
+            "image": "./images/services/help3.png",
+            "title": "SEO Firendly Website",
+            "description": "We don't just develop a website, we take care of it from the SEO perspective! Our 100% SEO friendly website will help you for getting high search rankings and traffic!"
+        },
+        {
+            "id": 4,
+            "image": "./images/services/help4.png",
+            "title": "Super Fast Website",
+            "description": "Website speed is a major factor for user satisfaction, increasing traffics and conversions! We will optimize your website and make super fast for best user experience"
+        },
+        {
+            "id": 5,
+            "image": "./images/services/help5.png",
+            "title": "Security Assurance",
+            "description": "Our security expert's ensure high web security to make sure your website is secure for the user and safe from digital threats, hackers and cyber-thieves"
+        },
+        {
+            "id": 6,
+            "image": "./images/services/help6.png",
+            "title": "24/7 Support",
+            "description": "We are a team of dedicated specialists, for emergency support and consultation our support team is always ready to listen you and provide you the best solution!"
+        }
+    ],
+    "projects":[
+        {
+            "id": 1,
+            "image": "./images/projects/project1.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 2,
+            "image": "./images/projects/project2.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 3,
+            "image": "./images/projects/project3.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 4,
+            "image": "./images/projects/project4.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 5,
+            "image": "./images/projects/project5.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 6,
+            "image": "./images/projects/project6.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 7,
+            "image": "./images/projects/project7.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 8,
+            "image": "./images/projects/project8.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 9,
+            "image": "./images/projects/project9.png",
+            "category": "Blog",
+            "title": "Blog Website"
+        },
+        {
+            "id": 10,
+            "image": "./images/projects/project1.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 11,
+            "image": "./images/projects/project2.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 12,
+            "image": "./images/projects/project3.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 13,
+            "image": "./images/projects/project4.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 14,
+            "image": "./images/projects/project5.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 15,
+            "image": "./images/projects/project6.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 16,
+            "image": "./images/projects/project7.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 17,
+            "image": "./images/projects/project8.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 18,
+            "image": "./images/projects/project9.png",
+            "category": "Landing",
+            "title": "Landing Page"
+        },
+        {
+            "id": 19,
+            "image": "./images/projects/project1.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 20,
+            "image": "./images/projects/project2.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 21,
+            "image": "./images/projects/project3.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 22,
+            "image": "./images/projects/project4.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 23,
+            "image": "./images/projects/project5.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 24,
+            "image": "./images/projects/project6.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 25,
+            "image": "./images/projects/project7.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 26,
+            "image": "./images/projects/project8.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 27,
+            "image": "./images/projects/project9.png",
+            "category": "Booking",
+            "title": "Booking Website"
+        },
+        {
+            "id": 28,
+            "image": "./images/projects/project1.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 29,
+            "image": "./images/projects/project2.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 30,
+            "image": "./images/projects/project3.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 31,
+            "image": "./images/projects/project4.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 32,
+            "image": "./images/projects/project5.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 33,
+            "image": "./images/projects/project6.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 34,
+            "image": "./images/projects/project7.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 35,
+            "image": "./images/projects/project8.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 36,
+            "image": "./images/projects/project9.png",
+            "category": "Business",
+            "title": "Business Website"
+        },
+        {
+            "id": 37,
+            "image": "./images/projects/project1.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 38,
+            "image": "./images/projects/project2.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 39,
+            "image": "./images/projects/project3.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 40,
+            "image": "./images/projects/project4.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 41,
+            "image": "./images/projects/project5.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 42,
+            "image": "./images/projects/project6.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 43,
+            "image": "./images/projects/project7.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 44,
+            "image": "./images/projects/project8.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 45,
+            "image": "./images/projects/project9.png",
+            "category": "E-Commerce",
+            "title": "E-Commerce Website"
+        },
+        {
+            "id": 46,
+            "image": "./images/projects/project1.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 47,
+            "image": "./images/projects/project2.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 48,
+            "image": "./images/projects/project3.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 49,
+            "image": "./images/projects/project4.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 50,
+            "image": "./images/projects/project5.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 51,
+            "image": "./images/projects/project6.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 52,
+            "image": "./images/projects/project7.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 53,
+            "image": "./images/projects/project8.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        },
+        {
+            "id": 54,
+            "image": "./images/projects/project9.png",
+            "category": "Shopify",
+            "title": "Shopify"
+        }
+    ],
+    "blogs":[
+        {
+            "id": 1,
+            "image": "./images/blogs/blog1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 2,
+            "image": "./images/blogs/blog2.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 3,
+            "image": "./images/blogs/blog3.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 4,
+            "image": "./images/blogs/blog4.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 5,
+            "image": "./images/blogs/blog5.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 6,
+            "image": "./images/blogs/blog6.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 7,
+            "image": "./images/blogs/blog7.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 8,
+            "image": "./images/blogs/blog8.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 9,
+            "image": "./images/blogs/blog9.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 10,
+            "image": "./images/blogs/blog1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 11,
+            "image": "./images/blogs/blog2.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 12,
+            "image": "./images/blogs/blog3.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 13,
+            "image": "./images/blogs/blog4.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 14,
+            "image": "./images/blogs/blog5.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 15,
+            "image": "./images/blogs/blog6.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 16,
+            "image": "./images/blogs/blog7.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 17,
+            "image": "./images/blogs/blog8.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 18,
+            "image": "./images/blogs/blog9.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 19,
+            "image": "./images/blogs/blog1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 20,
+            "image": "./images/blogs/blog2.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 21,
+            "image": "./images/blogs/blog3.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 22,
+            "image": "./images/blogs/blog4.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 23,
+            "image": "./images/blogs/blog5.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 24,
+            "image": "./images/blogs/blog6.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 25,
+            "image": "./images/blogs/blog7.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 26,
+            "image": "./images/blogs/blog8.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 27,
+            "image": "./images/blogs/blog9.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 28,
+            "image": "./images/blogs/blog1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 29,
+            "image": "./images/blogs/blog2.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 30,
+            "image": "./images/blogs/blog3.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 31,
+            "image": "./images/blogs/blog4.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 32,
+            "image": "./images/blogs/blog5.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 33,
+            "image": "./images/blogs/blog6.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 34,
+            "image": "./images/blogs/blog7.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 35,
+            "image": "./images/blogs/blog8.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 36,
+            "image": "./images/blogs/blog9.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 37,
+            "image": "./images/blogs/blog1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 38,
+            "image": "./images/blogs/blog2.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 39,
+            "image": "./images/blogs/blog3.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 40,
+            "image": "./images/blogs/blog4.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 41,
+            "image": "./images/blogs/blog5.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 42,
+            "image": "./images/blogs/blog6.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 43,
+            "image": "./images/blogs/blog7.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 44,
+            "image": "./images/blogs/blog8.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 45,
+            "image": "./images/blogs/blog9.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 46,
+            "image": "./images/blogs/blog1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 47,
+            "image": "./images/blogs/blog2.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 48,
+            "image": "./images/blogs/blog3.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 49,
+            "image": "./images/blogs/blog4.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 50,
+            "image": "./images/blogs/blog5.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 51,
+            "image": "./images/blogs/blog6.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 52,
+            "image": "./images/blogs/blog7.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 53,
+            "image": "./images/blogs/blog8.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        },
+        {
+            "id": 54,
+            "image": "./images/blogs/blog9.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date": "24 September 2020"
+        }
+    ],
+    "steps": [
+        {
+            "id": 1,
+            "title": "Support",
+            "image": "./images/steps/support.png",
+            "description": "We believe in establishing trust, long term relationship and that's why we provide ongoing support, maintenance and further customization after the website launch"
+        },
+        {
+            "id": 2,
+            "title": "Research",
+            "image": "./images/steps/research.png",
+            "description": "We perform QA testing to make sure faultless performance from the website and ensures that the website meets all the Google standards."
+        },
+        {
+            "id": 3,
+            "title": "Develop and Construct",
+            "image": "./images/steps/develop.png",
+            "description": "During development proccess we integrate needed functionality and features into the website"
+        },
+        {
+            "id": 4,
+            "title": "Launch",
+            "image": "./images/steps/launch.png",
+            "description": "We optimize the website with speed optimization, security check, image optimization, on page seo etc and After making sure your website is faultless, we launch it!"
+        }
+    ],
+    "clients": [
+        {
+            "id": 1,
+            "image": "./images/clients/company1.png",
+            "description": "Make the appearance of a mobile application that has quality and increases user convenience Make the appearance of a mobile application that has quality and increases user convenience"
+        },
+        {
+            "id": 2,
+            "image": "./images/clients/company2.png",
+            "description": "Make the appearance of a mobile application that has quality and increases user convenience Make the appearance of a mobile application that has quality and increases user convenience"
+        },
+        {
+            "id": 3,
+            "image": "./images/clients/company3.png",
+            "description": "Make the appearance of a mobile application that has quality and increases user convenience Make the appearance of a mobile application that has quality and increases user convenience"
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "image": "./images/news/news1.png",
+            "title": "8 Rules of Thumb in UI Design",
+            "date":"24 September 2020"
+        },
+        {
+            "id": 2,
+            "image": "./images/news/news2.png",
+            "title": "How to make a website look more attractive with illustrations",
+            "date":"24 September 2020"
+        },
+        {
+            "id": 3,
+            "image": "./images/news/news3.png",
+            "title": "How to make a website look more attractive with illustrations",
+            "date":"24 September 2020"
+        },
+        {
+            "id": 4,
+            "image": "./images/news/news1.png",
+            "title": "How to make a website look more attractive with illustrations",
+            "date":"24 September 2020"
+        },
+        {
+            "id": 5,
+            "image": "./images/news/news2.png",
+            "title": "How to make a website look more attractive with illustrations",
+            "date":"24 September 2020"
+        }
+    ]
+}
