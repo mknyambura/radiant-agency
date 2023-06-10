@@ -61,7 +61,7 @@
             "image": "./images/services/help4.png",
             "title": "Super Fast Website",
             "description": "Website speed is a major factor for user satisfaction, increasing traffics and conversions! We will optimize your website and make super fast for best user experience"
-        },
+        }, 
         {
             "id": 5,
             "image": "./images/services/help5.png",
@@ -73,6 +73,32 @@
             "image": "./images/services/help6.png",
             "title": "24/7 Support",
             "description": "We are a team of dedicated specialists, for emergency support and consultation our support team is always ready to listen you and provide you the best solution!"
+        }
+    ],
+    "categories": [
+        {
+            "id":1,
+            "category":"Blog"
+        },
+        {
+            "id":2,
+            "category":"Business"
+        },
+        {
+            "id":3,
+            "category":"Booking"
+        },
+        {
+            "id":4,
+            "category":"E-Commerce"
+        },
+        {
+            "id":5,
+            "category":"Landing"
+        },
+        {
+            "id":6,
+            "category":"Shopify"
         }
     ],
     "projects":[

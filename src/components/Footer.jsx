@@ -5,7 +5,7 @@ import { CiMail } from 'react-icons/ci'
 
 const Footer = () => {
   return (
-    <div className='mb-16 flex flex-col px-24 py-12'>
+    <div className='flex flex-col px-24 py-12'>
         <div className='flex sm:flex-col md:flex-col lg:flex-row justify-between gap-12'>
             <div className='flex flex-col gap-6 w-1/4'>
                 <h1 className='font-bold text-3xl'><span className='text-[#FF723A]'>R</span>adiant</h1>

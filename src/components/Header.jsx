@@ -16,7 +16,7 @@ import yellowBox from '../assets/yellow-box.png'
 const Header = () => {
   return (
     <div className='flex sm:lg:flex-row items-center'>
-        <div className='sm:w-full md:w-full lg:w-3/4 flex flex-col gap-8 px-20'>
+        <div className='sm:w-full md:w-full lg:w-3/4 flex flex-col gap-8 px-20 sm:items-center md:items-center'>
             <h1 className='font-bold text-5xl'>We help grow the tech industry</h1>
             <p className='opacity-70'>
                 We will help to develop every smallest thing into a big one for your company

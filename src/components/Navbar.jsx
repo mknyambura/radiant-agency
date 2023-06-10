@@ -12,23 +12,31 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className='lg:flex mg:flex-row justify-evenly items-center py-12'>
-        <div className='font-bold text-3xl'>
+      <div className='lg:flex mg:flex-row justify-between items-center py-12'>
+        <div className='font-bold text-3xl sm:px-16'>
           <span className='text-[#FF723A] '>R</span>
           adiant
         </div>
-        <div className='absolute right-8 top-[10%] lg:hidden' onClick={handleclick}>
+        <div className='absolute right-8 top-[5%] lg:hidden' onClick={handleclick}>
           {
             open ?  <FaBars className='text-[#FF723A] text-3xl'/> : <FaTimes className='text-[#FF723A] text-3xl'/>
           }
         </div>
         <ul className={`sm:w-full md:w-full lg:w-auto sm:z-10 md:z-10 z-[-1] sm:absolute md:absolute lg:static sm:py-6 sm:px-6 sm:mb-6 sm:mt-6 md:py-6 md:px-6 md:mb-6 md:mt-6 sm:bg-[#FF723A] md:bg-[#FF723A] lg:bg-transparent flex sm:flex-col md:flex-col lg:flex-row gap-4 items-center ${open ? "top-[-1090px]": "top-auto"}`}>
-          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>Home</li>
-          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>About Us</li>
+          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>
+            <a href="/">Home</a>
+          </li>
+          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>
+            <a href="/about-us">About Us</a>
+          </li>
           <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>Services</li>
           <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>Our Team</li>
-          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>Blog</li>
-          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>Portfolio</li>
+          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>
+            <a href="/blog">Blog</a>
+          </li>
+          <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>
+            <a href="/portfolio-projects">Portfolio</a>
+          </li>
           <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>FAQs</li>
           <li className='opacity-70 hover:font-bold active:text-[#FF723A] active:underline hover:cursor-pointer'>Contact Us</li>
           <div className='flex flex-row gap-4 '>
