@@ -6,14 +6,14 @@ import { CiMail } from 'react-icons/ci'
 const Footer = () => {
   return (
     <div className='mb-16 flex flex-col px-24 py-12'>
-        <div className='flex flex-row justify-between gap-12'>
+        <div className='flex sm:flex-col md:flex-col lg:flex-row justify-between gap-12'>
             <div className='flex flex-col gap-6 w-1/4'>
                 <h1 className='font-bold text-3xl'><span className='text-[#FF723A]'>R</span>adiant</h1>
                 <p className='opacity-50'>
                     Radiant is a digital agency. UI/UX Design and Website Development located in Ohio, USA
                 </p>
             </div>
-            <div className='w-3/4 flex flex-row gap-8 justify-evenly'>
+            <div className='w-3/4 flex sm:flex-col md:flex-col lg:flex-row gap-8 justify-evenly'>
                 <div className=' flex flex-col gap-4'>
                     <h1 className='font-bold'>Get in Touch</h1>
                     <div className='flex flex-col gap-2'>
@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
         <div className='flex flex-col px-12 py-12 gap-8'>
             <div className='bg-[#FF723A] h-[2px]'></div>
-            <div className='flex flex-row justify-between px-12 py-6'>
+            <div className='flex sm:flex-col md:flex-col lg:flex-row gap-8 justify-between px-12 py-6'>
                 <h1>All Rights Reserved.</h1>
                 <div className='flex flex-row'>
                     <h1>Privacy Policy</h1>

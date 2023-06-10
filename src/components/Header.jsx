@@ -15,8 +15,8 @@ import yellowBox from '../assets/yellow-box.png'
 
 const Header = () => {
   return (
-    <div className='flex flex-row items-center'>
-        <div className='w-3/4 flex flex-col gap-8 px-20'>
+    <div className='flex sm:lg:flex-row items-center'>
+        <div className='sm:w-full md:w-full lg:w-3/4 flex flex-col gap-8 px-20'>
             <h1 className='font-bold text-5xl'>We help grow the tech industry</h1>
             <p className='opacity-70'>
                 We will help to develop every smallest thing into a big one for your company
@@ -32,7 +32,7 @@ const Header = () => {
             modules={FreeMode}
             slidesPerView={1}
             spaceBetween={30}
-            className='mySwiper flex flex-row items-center justify-start overflow-x-scroll overflow-y-hidden m-16 '
+            className='mySwiper sm:hidden md:hidden lg:flex lg:flex-row items-center justify-start overflow-x-scroll overflow-y-hidden m-16 '
         >
             <SwiperSlide>
                 <div className=''>
